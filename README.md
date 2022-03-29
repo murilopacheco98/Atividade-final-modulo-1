@@ -4,7 +4,7 @@ Projeto final do módulo 1 do Programa Starter Full Stack Web Developer da Growd
 
 Neste projeto foram contruídas três páginas falando sobre mim.
 
-Projeto simples e os resultados estãos endo mostrados abaixo:
+Projeto simples e os resultados estão sendo mostrados abaixo:
 
 Página 1:
 
